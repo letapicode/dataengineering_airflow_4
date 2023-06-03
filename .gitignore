@@ -1,0 +1,19 @@
+# Ignore Python virtual environment files
+venv/
+env/
+
+# Ignore project dependencies
+/.venv/
+/.env/
+/.idea/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore project logs and cache
+/logs/
+/.cache/
+
+# Ignore any sensitive or private data files
+secrets.yaml
+credentials.json
