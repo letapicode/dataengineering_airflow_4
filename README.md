@@ -1,4 +1,4 @@
-# Data Engineering Report: Data Pipelines with Airflow for Sparkify
+# Data Pipelines with Airflow for Sparkify
 ## Introduction
 
 Sparkify, a music streaming company, has decided to enhance their data warehouse ETL pipelines by implementing automation and monitoring. They have chosen Apache Airflow as their tool of choice for achieving these goals.
